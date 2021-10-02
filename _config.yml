@@ -273,7 +273,9 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  
+scholar:
+  style: _bibliography/my-ieee.cls
 
 # Archives
 #  Type
