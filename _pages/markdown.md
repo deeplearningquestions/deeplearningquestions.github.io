@@ -1,6 +1,6 @@
 ---
-permalink: /guide/
-title: "Markdown"
+permalink: /contribute/
+title: "Contribute"
 author_profile: false
 ---
 
