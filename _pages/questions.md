@@ -17,11 +17,17 @@ All questions of "category1"
 
 
 All questions of "category2"
-{% assign sorted_questions2 = site.questions | where: "tags", "category2" | sort: "date" | reverse %}
-{% for question in sorted_questions2 %}
+{% assign sorted_questions = site.questions | where: "tags", "category2" | sort: "date" | reverse %}
+{% for question in sorted_questions %}
+  <h4>{{ question.title }}</h4>
+{% endfor %}
+
+All questions of "category4"
+{% assign sorted_questions = site.questions | where: "tags", "category4" | sort: "date" | reverse %}
+{% for question in sorted_questions %}
   <h4>{{ question.title }}</h4>
 {% endfor %}
 
 Only the last element of cat1:
-{% assign sorted_questions3 = site.questions | where: "tags", "category1" | sort: "date" | reverse %}
-{{ sorted_questions3[0].title }}
+{% assign sorted_questions = site.questions | where: "tags", "category1" | sort: "date" | reverse %}
+{{ sorted_questions[0].title }}
