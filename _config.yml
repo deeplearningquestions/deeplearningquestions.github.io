@@ -7,7 +7,7 @@
 
 # Site Settingds
 locale                   : "en-US"
-title                    : "My Name / Site Title"
+title                    : "Deep Learning Questions"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
