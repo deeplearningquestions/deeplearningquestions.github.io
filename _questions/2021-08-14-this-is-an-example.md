@@ -1,5 +1,6 @@
 ---
 title: 'First question'
+date: 2021-08-14
 permalink: /questions/this-is-the-first-question/
 tags:
   - category1
