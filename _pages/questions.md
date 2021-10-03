@@ -31,8 +31,7 @@ Only the last element of cat1:
 {% assign sorted_questions = site.questions | where: "tags", "category1" | sort: "date" | reverse %}
 {{ sorted_questions[0].title }}
 
-
-{% assign showtags = "category1, category4" | split ", " %}
+{% assign showtags = "category1, category4" | split: ", " %}
 {% for tag in showtags %}
   Last entry from tag {{ tag }}:
   
