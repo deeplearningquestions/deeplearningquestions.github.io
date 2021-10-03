@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://deeplearningquestions.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://deeplearningquestions.github.io/" rel="alternate" type="text/html" /><updated>2021-10-03T12:45:12-07:00</updated><id>https://deeplearningquestions.github.io/feed.xml</id><title type="html">Deep Learning Questions</title><subtitle>personal description</subtitle><entry><title type="html">My new post</title><link href="https://deeplearningquestions.github.io/posts/20192/098/99blog-post-4/" rel="alternate" type="text/html" title="My new post" /><published>2018-08-14T00:00:00-07:00</published><updated>2018-08-14T00:00:00-07:00</updated><id>https://deeplearningquestions.github.io/posts/20192/098/blog-post-22</id><content type="html" xml:base="https://deeplearningquestions.github.io/posts/20192/098/99blog-post-4/">&lt;p&gt;This is an example&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Trying to cite something &lt;a class=&quot;citation&quot; href=&quot;#metz2011nonrigid&quot;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+\[E(\boldsymbol{\mu})=\frac{1}{n} \sum_{i=1}^{n}\left\|\boldsymbol{x}_{i}^{m}-T\left(\boldsymbol{x}_{i}^{f}, \boldsymbol{\mu}\right)\right\|\]
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;metz2011nonrigid&quot;&gt;C. T. Metz, S. Klein, M. Schaap, T. van Walsum, and W. J. Niessen, “Nonrigid registration of dynamic medical imaging data using nD+ t B-splines and a groupwise optimization approach,” &lt;i&gt;Medical image analysis&lt;/i&gt;, vol. 15, no. 2, pp. 238–249, 2011.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h1 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h1&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+
+      &lt;p&gt;When registering a time series, however, we may be interested to the
+partial derivatives with respect to the last dimension, along which we may
+want to have a smooth transform, corresponding to a smooth movement of the
+image content in time. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is an example[^1]</summary></entry><entry><title type="html">Blog Post number 4</title><link href="https://deeplearningquestions.github.io/posts/2012/08/blog-post-4/" rel="alternate" type="text/html" title="Blog Post number 4" /><published>2015-08-14T00:00:00-07:00</published><updated>2015-08-14T00:00:00-07:00</updated><id>https://deeplearningquestions.github.io/posts/2012/08/blog-post-4</id><content type="html" xml:base="https://deeplearningquestions.github.io/posts/2012/08/blog-post-4/">&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+
+&lt;h1 id=&quot;headings-are-cool&quot;&gt;Headings are cool&lt;/h1&gt;
+
+&lt;h1 id=&quot;you-can-have-many-headings&quot;&gt;You can have many headings&lt;/h1&gt;
+
+&lt;h2 id=&quot;arent-headings-cool&quot;&gt;Aren’t headings cool?&lt;/h2&gt;</content><author><name></name></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</summary></entry><entry><title type="html">Blog Post number 3</title><link href="https://deeplearningquestions.github.io/posts/2014/08/blog-post-3/" rel="alternate" type="text/html" title="Blog Post number 3" /><published>2014-08-14T00:00:00-07:00</published><updated>2014-08-14T00:00:00-07:00</updated><id>https://deeplearningquestions.github.io/posts/2014/08/blog-post-3</id><content type="html" xml:base="https://deeplearningquestions.github.io/posts/2014/08/blog-post-3/">&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+
+&lt;h1 id=&quot;headings-are-cool&quot;&gt;Headings are cool&lt;/h1&gt;
+
+&lt;h1 id=&quot;you-can-have-many-headings&quot;&gt;You can have many headings&lt;/h1&gt;
+
+&lt;h2 id=&quot;arent-headings-cool&quot;&gt;Aren’t headings cool?&lt;/h2&gt;</content><author><name></name></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</summary></entry><entry><title type="html">Blog Post number 2</title><link href="https://deeplearningquestions.github.io/posts/2013/08/blog-post-2/" rel="alternate" type="text/html" title="Blog Post number 2" /><published>2013-08-14T00:00:00-07:00</published><updated>2013-08-14T00:00:00-07:00</updated><id>https://deeplearningquestions.github.io/posts/2013/08/blog-post-2</id><content type="html" xml:base="https://deeplearningquestions.github.io/posts/2013/08/blog-post-2/">&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+
+&lt;h1 id=&quot;headings-are-cool&quot;&gt;Headings are cool&lt;/h1&gt;
+
+&lt;h1 id=&quot;you-can-have-many-headings&quot;&gt;You can have many headings&lt;/h1&gt;
+
+&lt;h2 id=&quot;arent-headings-cool&quot;&gt;Aren’t headings cool?&lt;/h2&gt;</content><author><name></name></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</summary></entry><entry><title type="html">Blog Post number 1</title><link href="https://deeplearningquestions.github.io/posts/2012/08/blog-post-1/" rel="alternate" type="text/html" title="Blog Post number 1" /><published>2012-08-14T00:00:00-07:00</published><updated>2012-08-14T00:00:00-07:00</updated><id>https://deeplearningquestions.github.io/posts/2012/08/blog-post-1</id><content type="html" xml:base="https://deeplearningquestions.github.io/posts/2012/08/blog-post-1/">&lt;p&gt;This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.&lt;/p&gt;
+
+&lt;h1 id=&quot;headings-are-cool&quot;&gt;Headings are cool&lt;/h1&gt;
+
+&lt;h1 id=&quot;you-can-have-many-headings&quot;&gt;You can have many headings&lt;/h1&gt;
+
+&lt;h2 id=&quot;arent-headings-cool&quot;&gt;Aren’t headings cool?&lt;/h2&gt;</content><author><name></name></author><category term="cool posts" /><category term="category1" /><category term="category2" /><summary type="html">This is a sample blog post. Lorem ipsum I can’t remember the rest of lorem ipsum and don’t have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.</summary></entry></feed>
