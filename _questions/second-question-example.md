@@ -3,9 +3,8 @@ title: 'Second question'
 date: 2021-09-14
 permalink: /questions/this-is-the-second-question/
 tags:
-  - category1
+  - category4
   - category2
-  - category3 and a half
 ---
 
 SECOND QUESTION
