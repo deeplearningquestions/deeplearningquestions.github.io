@@ -20,12 +20,12 @@ https://deeplearningquestions.github.io/questions/this-is-the-second-question/
 
 3. Tag cloud
 {% for tag in site.tags %}
-    {{ tag }}
+    {{ tag[0] | slugify }}
 {% endfor %}
 
 
 4. List of all questions
 {% assign sorted_questions = site.questions | sort: "date" | reverse %}
 {% for question in sorted_questions %}
-    {{ sorted_questions[0].title }}  {{ sorted_questions[0].url }} 
+    {{ question.title }}  {{ question.url }} 
 {% endfor %}
