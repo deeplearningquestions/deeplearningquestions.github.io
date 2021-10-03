@@ -19,8 +19,8 @@ https://deeplearningquestions.github.io/questions/this-is-the-second-question/
 {% endfor %}
 
 3. Tag cloud
-{% for tag in site.tags %}
-    {{ tag[0] | slugify }}
+{% for tag in site.questions | map: 'tags' | uniq %}
+    {{ tag | slugify }}
 {% endfor %}
 
 
